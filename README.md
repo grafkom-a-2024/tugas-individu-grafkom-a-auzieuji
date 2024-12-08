@@ -14,3 +14,8 @@ Membuat objek 2D, yaitu segitiga dan melakukan translasi serta rotasi
 - Memberi texture
 - Membuat animasi rotasi
 
+## Pertemuan 4
+
+![doughnut](https://github.com/user-attachments/assets/95945301-a7a4-48c4-b57b-414dcd7aa097)
+![dough](https://github.com/user-attachments/assets/1f55e465-971f-49b0-a70b-a92a7d9921b0)
+- Membuat objek 3D di blender (menggunakan modifiers dan sculpting)
