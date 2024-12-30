@@ -24,8 +24,8 @@ Membuat objek 2D, yaitu segitiga dan melakukan translasi serta rotasi
 
 ![image](https://github.com/user-attachments/assets/23ee6eb8-cf1b-46b8-855c-3d8cdea51b4b)
 1. Menampilkan berbagai 3D Object
-  • Variasi geometri, material, texture, dan lighting, fog, shadow, 
-  • Panorama 
-  • Control (Orbit control atau yang lain)
- 2. Loading 3D Model
-   • animasi dan user interaction (Keyboard,Mouse event) untuk mengganti mode (idle, walk, run, Jump dll)
+   - Geometri, material, texture, dan lighting, fog, shadow,
+   - Panorama
+   - Control (Orbit control atau yang lain)
+2. Loading 3D Model
+   - Animasi dan user interaction (Keyboard,Mouse event) untuk mengganti mode (idle, walk, run, Jump dll)
