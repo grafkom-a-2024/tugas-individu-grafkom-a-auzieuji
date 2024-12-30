@@ -1,6 +1,6 @@
 # Tugas Individu Grafika Komputer
 Dhia Auzie Cantika - 5025221166
-Video Demo dapat diakses [di sini] (https://www.youtube.com/playlist?list=PL6QCf8_MQtoH1wpE8PX1aniQr5XCM5a8v)
+Video Demo dapat diakses [di sini](https://www.youtube.com/playlist?list=PL6QCf8_MQtoH1wpE8PX1aniQr5XCM5a8v)
 
 ## Pertemuan 1-2
 
